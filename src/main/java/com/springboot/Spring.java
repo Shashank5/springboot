@@ -11,7 +11,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Spring {
     public static void main(String[] args) throws Exception {
         SpringApplication.run(Spring.class, args);
-        System.out.println("Hello");
     }
 }
 
